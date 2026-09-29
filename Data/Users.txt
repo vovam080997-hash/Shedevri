@@ -1,0 +1,3 @@
+// ID | Username | Password | Email | Role
+9001|admin|Vova1234!|vovam080997@gmail.com|admin
+9002|vova|Vova1234!|vovam0809977@gmail.com|customer

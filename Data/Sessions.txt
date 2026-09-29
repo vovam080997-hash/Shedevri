@@ -1,0 +1,3 @@
+// SessionID | MovieID | HallID | StartDateTime | StandardPrice | VipPrice | Status
+S101|M01|H1|2026-08-10 19:30|18.00|30.00|Completed
+S102|M02|H2|2026-10-15 20:00|15.00|25.00|Active

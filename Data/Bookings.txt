@@ -1,0 +1,5 @@
+// BookingID | UserID | SessionID | Row | Seat | TicketType | Price | TicketCode | Status
+B501|1001|S101|4|7|VIP|30.00|CG-8F4K21|Confirmed
+B502|9002|S102|3|4|Standard|15.00|CG-DFE8ML|Confirmed
+B503|9003|S102|3|6|Standard|15.00|CG-2JZNPX|Confirmed
+B504|9002|S102|3|3|Standard|15.00|CG-TBPKPB|Confirmed

@@ -1,0 +1,17 @@
+[2026-09-29 08:09:55] Session S101 automatically marked as completed.
+[2026-09-29 08:10:07] Login successful: cinema_admin (role: admin)
+[2026-09-29 08:10:31] User cinema_admin changed their password.
+[2026-09-29 08:19:38] Failed login attempt: 
+[2026-09-29 08:19:57] New user registered: vova (ID 9002)
+[2026-09-29 08:21:03] Login successful: vova (role: customer)
+[2026-09-29 08:21:34] New booking: user vova (ID 9002), session S102, seat [3,4], type Standard, price 15.00 GEL, code CG-DFE8ML
+[2026-09-29 08:21:37] EMAIL sent successfully -> vovam0809977@gmail.com: CinemaGo - Booking confirmation
+[2026-09-29 08:22:30] New user registered: vova123 (ID 9003)
+[2026-09-29 08:22:40] Login successful: vova123 (role: customer)
+[2026-09-29 08:22:53] New booking: user vova123 (ID 9003), session S102, seat [3,6], type Standard, price 15.00 GEL, code CG-2JZNPX
+[2026-09-29 08:22:59] EMAIL sent successfully -> vovam080997@gmail.com: CinemaGo - Booking confirmation
+[2026-09-29 19:26:08] Failed login attempt: vova123
+[2026-09-29 19:26:16] Login successful: vova (role: customer)
+[2026-09-29 19:26:24] New booking: user vova (ID 9002), session S102, seat [3,3], type Standard, price 15.00 GEL, code CG-TBPKPB
+[2026-09-29 19:26:27] EMAIL sent successfully -> vovam0809977@gmail.com: CinemaGo - Booking confirmation
+[2026-09-29 19:45:55] Login successful: vova (role: customer)
